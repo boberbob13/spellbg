@@ -1,6 +1,15 @@
-# Spellcheck
+# Spellcheck (the original project) and its Bulgarian translation
 
-I suck at spelling and this project was supposed to help me be better but it actually just made me accept that spelling is very hard. Anyway, here's the website assets including the audio clips. The actual process of generating new audio prompts can be found in this YouTube video: <https://youtu.be/KK3mS4bQ5JM>
+<https://youtu.be/KK3mS4bQ5JM>
+Spellcheck is an webapp made by Answer in Progress to practice spelling just for fun or for Spelling Bee competition.
+So i translated it in Bulgarian, well not really - just some pages, the words aren't touched (yet).
+
+The project is still not fully ready, soo don't download it :)
+
+_Spellcheck е уеб-приложение създадено от Answer in Progress (канал в ютуб) за да се подготвяш за Spelling Bee състезания или за да тестваш знанията си на английски.
+Затова го преведох на Български, е, не точно - само някои от страниците за да бъде по-достъпно. Думите, дефинициите и преводи не са пипани (все още)._
+
+_Проектът все още не е готов изцяло, за това по-добре не го изтегляйте :)_
 
 ## Known Issues
 
